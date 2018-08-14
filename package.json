@@ -1,0 +1,19 @@
+{
+  "name": "how_to_publish_local_package",
+  "version": "1.0.0",
+  "description": "发布NPM本地包的例子",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openjavascript/HOW_TO_PUBLISH_LOCAL_PACKAGE.git"
+  },
+  "author": "suches@vip.qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openjavascript/HOW_TO_PUBLISH_LOCAL_PACKAGE/issues"
+  },
+  "homepage": "https://github.com/openjavascript/HOW_TO_PUBLISH_LOCAL_PACKAGE#readme"
+}
