@@ -1,9 +1,9 @@
 {
-  "name": "HowToPublishLocalPackage",
+  "name": "how-to-publish-local-package",
   "version": "1.0.0",
   "description": "发布NPM本地包的例子",
   "main": "dist/index.js",
-  "repository": "git@github.com:openjavascript/HowToPublishLocalPackage.git",
+  "repository": "git@github.com:openjavascript/how-to-publish-local-package.git",
   "author": "suches@vip.qq.com",
   "license": "MIT",
   "dependencies": {
